@@ -1,2 +1,2 @@
 # python-functions
-different (non-trivial) examples of python function for beginners
+some (non-trivial) examples of python functions for beginners
