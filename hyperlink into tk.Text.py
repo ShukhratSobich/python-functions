@@ -25,7 +25,7 @@ class App(tk.Tk):
         """
         The function inserts a text in a tkinter text box and converts it to a hyperlink using spesial tags and event functions.
 
-        :param tag_name: an unic tag name for each hyperlink is nessesary
+        :param tag_name: an uniq tag name for each hyperlink is nessesary
         :param hyperlink_text: Text
         :param hyperlink_url: a Weblink or a file link
         """
